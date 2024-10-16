@@ -1,0 +1,37 @@
+Reading movies into list...
+Total movies: 9851221
+Elapsed time (s): 26.465
+Converting movie list to map...
+Elapsed time (s): 1.549
+Reading ratings into map...
+Elapsed time (s): 2.819
+Processing: LOOKUP tt0081505
+Movie{ID='tt0081505', titleType=MOVIE, title='The Shining', year=1980, runtimeMinutes=146, genres=[DRAMA, HORROR], rating=Rating{ID='tt0081505', rating=8.4, numVotes=1069265}}
+Elapsed time (s): 0.126
+Processing: LOOKUP tt0816692
+Movie{ID='tt0816692', titleType=MOVIE, title='Interstellar', year=2014, runtimeMinutes=169, genres=[ADVENTURE, DRAMA, SCI_FI], rating=Rating{ID='tt0816692', rating=8.7, numVotes=1988554}}
+Elapsed time (s): 0.0
+Processing: LOOKUP tt0052357
+Movie{ID='tt0052357', titleType=MOVIE, title='Vertigo', year=1958, runtimeMinutes=128, genres=[MYSTERY, ROMANCE, THRILLER], rating=Rating{ID='tt0052357', rating=8.3, numVotes=416477}}
+Elapsed time (s): 0.0
+Processing: LOOKUP tt0080684
+Movie{ID='tt0080684', titleType=MOVIE, title='Star Wars: Episode V - The Empire Strikes Back', year=1980, runtimeMinutes=124, genres=[ACTION, ADVENTURE, FANTASY], rating=Rating{ID='tt0080684', rating=8.7, numVotes=1341724}}
+Elapsed time (s): 0.0
+Processing: LOOKUP tt0338013
+Movie{ID='tt0338013', titleType=MOVIE, title='Eternal Sunshine of the Spotless Mind', year=2004, runtimeMinutes=108, genres=[DRAMA, ROMANCE, SCI_FI], rating=Rating{ID='tt0338013', rating=8.3, numVotes=1046318}}
+Elapsed time (s): 0.001
+Processing: LOOKUP tt0245429
+Movie{ID='tt0245429', titleType=MOVIE, title='Spirited Away', year=2001, runtimeMinutes=125, genres=[ADVENTURE, ANIMATION, FAMILY], rating=Rating{ID='tt0245429', rating=8.6, numVotes=809597}}
+Elapsed time (s): 0.0
+Processing: LOOKUP tt2301451
+Movie{ID='tt2301451', titleType=TV_EPISODE, title='Ozymandias', year=2013, runtimeMinutes=47, genres=[CRIME, DRAMA, THRILLER], rating=Rating{ID='tt2301451', rating=10.0, numVotes=205126}}
+Elapsed time (s): 0.0
+Processing: LOOKUP tt0204657
+Movie{ID='tt0204657', titleType=VIDEO_GAME, title='Super Mario 64', year=1996, runtimeMinutes=0, genres=[ACTION, ADVENTURE, COMEDY], rating=Rating{ID='tt0204657', rating=9.1, numVotes=6739}}
+Elapsed time (s): 0.0
+Processing: LOOKUP tt5753856
+Movie{ID='tt5753856', titleType=TV_SERIES, title='Dark', year=2017, runtimeMinutes=60, genres=[CRIME, DRAMA, MYSTERY], rating=Rating{ID='tt5753856', rating=8.7, numVotes=420755}}
+Elapsed time (s): 0.001
+Processing: LOOKUP tt7149678
+Movie{ID='tt7149678', titleType=TV_SPECIAL, title='Super Bowl LI Halftime Show Starring Lady Gaga', year=2017, runtimeMinutes=14, genres=[DOCUMENTARY, MUSIC, MUSICAL], rating=Rating{ID='tt7149678', rating=8.8, numVotes=1871}}
+Elapsed time (s): 0.0

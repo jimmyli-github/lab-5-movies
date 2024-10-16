@@ -1,0 +1,48 @@
+Reading movies into list...
+Total movies: 9851221
+Elapsed time (s): 27.265
+Converting movie list to map...
+Elapsed time (s): 1.607
+Reading ratings into map...
+Elapsed time (s): 2.946
+Processing: MOST_VOTES 20 MOVIE
+	1: TITLE: The Shawshank Redemption, TYPE: MOVIE, YEAR: 1994, VOTES: 2799010
+	2: TITLE: The Dark Knight, TYPE: MOVIE, YEAR: 2008, VOTES: 2780231
+	3: TITLE: Inception, TYPE: MOVIE, YEAR: 2010, VOTES: 2468126
+	4: TITLE: Fight Club, TYPE: MOVIE, YEAR: 1999, VOTES: 2232769
+	5: TITLE: Forrest Gump, TYPE: MOVIE, YEAR: 1994, VOTES: 2178109
+	6: TITLE: Pulp Fiction, TYPE: MOVIE, YEAR: 1994, VOTES: 2146966
+	7: TITLE: The Matrix, TYPE: MOVIE, YEAR: 1999, VOTES: 1990208
+	8: TITLE: Interstellar, TYPE: MOVIE, YEAR: 2014, VOTES: 1988554
+	9: TITLE: The Godfather, TYPE: MOVIE, YEAR: 1972, VOTES: 1950101
+	10: TITLE: The Lord of the Rings: The Fellowship of the Ring, TYPE: MOVIE, YEAR: 2001, VOTES: 1944643
+	11: TITLE: The Lord of the Rings: The Return of the King, TYPE: MOVIE, YEAR: 2003, VOTES: 1916434
+	12: TITLE: The Dark Knight Rises, TYPE: MOVIE, YEAR: 2012, VOTES: 1775988
+	13: TITLE: Se7en, TYPE: MOVIE, YEAR: 1995, VOTES: 1733248
+	14: TITLE: The Lord of the Rings: The Two Towers, TYPE: MOVIE, YEAR: 2002, VOTES: 1729339
+	15: TITLE: Django Unchained, TYPE: MOVIE, YEAR: 2012, VOTES: 1634586
+	16: TITLE: Gladiator, TYPE: MOVIE, YEAR: 2000, VOTES: 1562627
+	17: TITLE: Batman Begins, TYPE: MOVIE, YEAR: 2005, VOTES: 1534316
+	18: TITLE: Inglourious Basterds, TYPE: MOVIE, YEAR: 2009, VOTES: 1524621
+	19: TITLE: The Wolf of Wall Street, TYPE: MOVIE, YEAR: 2013, VOTES: 1507504
+	20: TITLE: The Silence of the Lambs, TYPE: MOVIE, YEAR: 1991, VOTES: 1493545
+Elapsed time (s): 2.838
+Processing: MOST_VOTES 10 VIDEO_GAME
+	1: TITLE: The Last of Us, TYPE: VIDEO_GAME, YEAR: 2013, VOTES: 72752
+	2: TITLE: Grand Theft Auto V, TYPE: VIDEO_GAME, YEAR: 2013, VOTES: 67707
+	3: TITLE: Red Dead Redemption II, TYPE: VIDEO_GAME, YEAR: 2018, VOTES: 48173
+	4: TITLE: Grand Theft Auto: San Andreas, TYPE: VIDEO_GAME, YEAR: 2004, VOTES: 42710
+	5: TITLE: The Last of Us: Part II, TYPE: VIDEO_GAME, YEAR: 2020, VOTES: 39273
+	6: TITLE: Grand Theft Auto IV, TYPE: VIDEO_GAME, YEAR: 2008, VOTES: 36672
+	7: TITLE: God of War, TYPE: VIDEO_GAME, YEAR: 2018, VOTES: 34553
+	8: TITLE: Uncharted 4: A Thief's End, TYPE: VIDEO_GAME, YEAR: 2016, VOTES: 33912
+	9: TITLE: Batman: Arkham City, TYPE: VIDEO_GAME, YEAR: 2011, VOTES: 33381
+	10: TITLE: The Elder Scrolls V: Skyrim, TYPE: VIDEO_GAME, YEAR: 2011, VOTES: 32403
+Elapsed time (s): 0.532
+Processing: MOST_VOTES 5 TV_SERIES
+	1: TITLE: Game of Thrones, TYPE: TV_SERIES, YEAR: 2011, VOTES: 2204588
+	2: TITLE: Breaking Bad, TYPE: TV_SERIES, YEAR: 2008, VOTES: 2038197
+	3: TITLE: Stranger Things, TYPE: TV_SERIES, YEAR: 2016, VOTES: 1276057
+	4: TITLE: The Walking Dead, TYPE: TV_SERIES, YEAR: 2010, VOTES: 1046037
+	5: TITLE: Friends, TYPE: TV_SERIES, YEAR: 1994, VOTES: 1045686
+Elapsed time (s): 1.187
